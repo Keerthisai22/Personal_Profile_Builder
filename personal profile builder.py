@@ -1,0 +1,13 @@
+name=input("Enter the Name=")
+dept=input("Enter the Department=")
+college=input("Enter the college=")
+passout=input("Enter the study years=")
+goal=input("Enter the carrer goal=")
+print("===============================================================")
+print("-----PERSONAL PROFILE BUILDER-----")
+print(f"Name:        {name}")
+print(f"Department:  {dept}")
+print(f"College:     {college}")
+print(f"Study years: {passout}")
+print(f"Goal:        {goal}")
+
